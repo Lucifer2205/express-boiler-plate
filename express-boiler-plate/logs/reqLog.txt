@@ -1,0 +1,10 @@
+20220519	13:15:09	13b59b9b-6bdc-44f8-887d-9d43f3c0a455	GET	undefined	/
+20220519	13:15:09	1c4279c3-aa18-426b-831b-021d71b06f49	GET	undefined	/css/style.css
+20220519	13:15:10	e5d8ee17-76e8-4d31-80e7-fd644ba391fa	GET	undefined	/
+20220519	13:15:10	3bfe9c49-77a1-4d5c-838a-236b99171e20	GET	undefined	/css/style.css
+20220519	13:15:25	d215a2f3-d56a-415e-bb12-92f95294bfa4	GET	undefined	/adad
+20220519	13:15:31	a4baff8b-a405-45fc-af69-ed206d716804	GET	undefined	/
+20220519	13:15:31	020537e4-e42c-4868-b81d-8d9c168b4cda	GET	undefined	/css/style.css
+20220519	15:35:41	806196b3-744c-4b05-8bd9-dbc4b6b63b26	GET	undefined	/css/style.css
+20220519	15:35:47	91639fcc-e41e-4cc7-91af-6ff4d742cd54	GET	undefined	/
+20220519	15:35:48	b511ba77-e60a-44c4-b843-d87ac58671dd	GET	undefined	/css/style.css
